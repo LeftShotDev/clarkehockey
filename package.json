@@ -1,0 +1,20 @@
+{
+  "name": "clarke-hockey",
+  "version": "0.1.0",
+  "description": "An 11ty website for clarkehockey.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [
+    "11ty",
+    "eleventy",
+    "hockey"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
